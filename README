@@ -1,0 +1,4 @@
+Android custom view: DockableView.
+This view can be expanded/collapsed with a move gesture.
+It is like the notification view of the Facebook or Google+ App.
+
