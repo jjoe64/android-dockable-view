@@ -2,3 +2,10 @@ Android custom view: DockableView.
 This view can be expanded/collapsed with a move gesture.
 It is like the notification view of the Facebook or Google+ App.
 
+== Usage ==
+* Download/Copy the file DockableView.java from the git project
+* Create a new class that extends this DockableView
+* Your view must be nested in a RelativeLayout and must have the parameter android:layout_alignParentBottom="true"
+* Set a Layout for your class
+* [optional] override getDockedSize and/or getExpandedHeight
+
